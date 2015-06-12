@@ -123,4 +123,4 @@ title(ylab="Number of steps", outer=TRUE)
 
 ![](PA1_template_files/figure-html/unnamed-chunk-9-1.png) 
 
-It is apparent that there is less activity on the weekends.
+It is apparent that there is less activity on the weekdays.

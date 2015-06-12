@@ -94,4 +94,4 @@ plot(weekdaystepsperday$interval, weekdaystepsperday$mean, type="l", main="weekd
 title(ylab="Number of steps", outer=TRUE)
 ```
 
-It is apparent that there is less activity on the weekends.
+It is apparent that there is less activity on the weekdays.
